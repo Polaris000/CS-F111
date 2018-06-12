@@ -1,0 +1,14 @@
+This is file3!
+total 0
+-rw-r--r-- 1 aniruddha aniruddha 0 Jan 23 02:48 dirfile
+-rw-r--r-- 1 aniruddha aniruddha 0 Jan 23 02:48 file1
+-rw-r--r-- 1 aniruddha aniruddha 0 Jan 23 02:48 file2
+-rw-r--r-- 1 aniruddha aniruddha 0 Jan 23 02:48 file3
+           system boot  2018-01-23 02:42
+           run-level 5  2018-01-23 02:43
+LOGIN      tty1         2018-01-23 02:43              1040 id=tty1
+aniruddha + tty7         2018-01-23 02:43 00:06        1285 (:0)
+This is file2
+I am using Linux!
+*************************
+*************************
