@@ -1,2 +1,0 @@
-ID 	 name 	 compre_score 	 rank 
- 
