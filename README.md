@@ -2,7 +2,7 @@
 This is the introduction to computer programming course at BITS Pilani.   
 This repo contains my solutions to the LAB assignments as well as the final programming exam  
 
-Contents:
+Contents:  
 [Lab1](https://github.com/Polaris000/CS-F111/tree/master/Lab1)  
 [Lab2](https://github.com/Polaris000/CS-F111/tree/master/Lab2)  
 [Lab3](https://github.com/Polaris000/CS-F111/tree/master/Lab3)  
